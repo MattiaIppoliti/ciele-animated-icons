@@ -1,0 +1,34 @@
+{
+  "name": "ciele-animated-icons",
+  "version": "0.1.0",
+  "description": "Hover-animated lucide-style icons: a registry that upgrades lucide-react glyphs to motion-animated twins, shipped as TypeScript source.",
+  "license": "MIT",
+  "repository": "github:MattiaIppoliti/ciele-animated-icons",
+  "type": "module",
+  "sideEffects": false,
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "peerDependencies": {
+    "lucide-react": ">=0.400.0",
+    "motion": ">=11",
+    "react": ">=19"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19",
+    "lucide-react": "^0.544.0",
+    "motion": "^12",
+    "react": "^19",
+    "typescript": "^5"
+  }
+}
