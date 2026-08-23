@@ -16,7 +16,7 @@
     "typecheck": "tsc --noEmit"
   },
   "peerDependencies": {
-    "lucide-react": ">=0.400.0",
+    "lucide-react": ">=1",
     "motion": ">=11",
     "react": ">=19"
   },
@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "@types/react": "^19",
-    "lucide-react": "^0.544.0",
+    "lucide-react": "^1.23.0",
     "motion": "^12",
     "react": "^19",
     "typescript": "^5"

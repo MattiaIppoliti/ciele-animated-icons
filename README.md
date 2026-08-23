@@ -4,10 +4,10 @@ Hover-animated lucide-style icons, extracted from the Ciele console so the app r
 
 ## Install
 
-Shipped as TypeScript source, no build step. Install from GitHub and transpile it in your bundler:
+Shipped as TypeScript source, no build step. Install it and transpile it in your bundler:
 
 ```bash
-pnpm add github:MattiaIppoliti/ciele-animated-icons
+pnpm add ciele-animated-icons
 ```
 
 Next.js:
