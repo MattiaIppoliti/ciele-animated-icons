@@ -1,6 +1,6 @@
 # ciele-animated-icons
 
-Hover-animated lucide-style icons, extracted from the Ciele console so the app repo stays lean. 77 motion-animated SVG icons, a factory (`createAnimatedIcon`) that removes their shared scaffold, and a drop-in `<AnimatedIcon>` wrapper that upgrades a plain `lucide-react` glyph to its animated twin when one exists.
+Hover-animated lucide-style icons, extracted from the Ciele console so the app repo stays lean. 471 motion-animated SVG icons, a factory (`createAnimatedIcon`) that removes their shared scaffold, and a drop-in `<AnimatedIcon>` wrapper that upgrades a plain `lucide-react` glyph to its animated twin when one exists.
 
 ## Install
 
